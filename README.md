@@ -8,4 +8,4 @@ Find two notebooks:
 
 (1) The Binary Classifier
 
-(2) The Sentence Similarity Component
+(2) The Sentence Similarity Classifier
