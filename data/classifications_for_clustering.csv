@@ -1,0 +1,68 @@
+text,label,pred_label,text_length,same
+Wann ist eine bernachtung in einem Hotel als Privatreisender möglich ,1,1,69,1
+Darf ich vom 13 02 15 02 Urlaub in Berlin machen,1,1,48,1
+wann muss man zu schule,1,1,23,1
+wie erfahre ich wer der eigentümer eines grundstückes meines vor 2 Jahren verstorbenen Nachbarn ist,0,1,99,0
+was kostet in berlin der vorläufige führerschein ,0,1,49,0
+Beglaubigung,0,0,12,1
+Wohnung anmelden heute,0,0,22,1
+Muss ich Quarantän machen wenn ich ein Test nich älter als 48 Stunden habe ,1,1,75,1
+Einreise aus der Schweiz möglich ,1,0,33,0
+Darf ich innerhalb Deutschlands reisen ,1,1,39,1
+Dürfen Oma und Opa das Enkelkind besuchen,1,1,41,1
+Ich brauche eine molekularbiologische Analyse auf das Coronavirus z B ein PCR Test in Berlin,1,1,92,1
+Ich habe meine 91järige Mutter seit Anfang Dezember 2020 bis 29 01 2021 bei mir zu Besuch Sonst befindet sie sich im Pflegeheim in Forst Lausitz Kann meine Mutter in Berlin per Hausbesuch geimpft werden wohin muss ich mich wenden 2021,1,1,234,1
+Braucht man für die Gesundheitskarte eine Bescheinigung des Arbeitgebers ,0,1,73,0
+Wir wollen heiraten,0,1,19,0
+Darf man als berliner nach Polen fahren ,1,1,40,1
+Geburtstag feiern,1,0,17,0
+dürfen maskenbildner am filmset momentan arbeiten ,1,0,50,0
+Wie weiß ich ob ich angemeldet bin auf eine Adresse ,0,1,52,0
+Perso schnell,0,1,13,0
+Kann sich jemand der in Brandenburg wohnt und täglich zur Arbeit nach Berlin fahren muss auch in Berlin impfen lassen ,1,1,118,1
+Antigen Test,1,1,12,1
+Ich bin 41 und adipös Wann kann ich gegen Corona geimpft werden ,1,1,64,1
+vorläufiger reisepass,0,0,21,1
+vorläufigen personalausweis ohne giro card,0,0,42,1
+was kostet die Eheschließung ,0,1,29,0
+Wie kann ich einen Termin für die Einbürgerung buchen ,0,1,54,0
+vorläufiger Führerschein,0,0,24,1
+Führerschein erneuern,0,0,21,1
+Wann öffnen fahrschulen in Berlin ,1,1,34,1
+Führungszeugnis,0,0,15,1
+änderung hauptwohnung anmeldung kinderreisepass,0,0,47,1
+darf ich nach polen,0,1,19,0
+Wie und wo bekomme ich eine neue Impfeinladung bei Verlust ,1,1,59,1
+Kitaplatz Suche,1,0,15,0
+Kann ich auch ohne Termin eine Wohnung anmelden ,0,1,48,0
+liste aller bezirksämter bitte,0,1,30,0
+Wann kann ich zu ikea,1,1,21,1
+Wann werde ich geimpft,1,1,22,1
+Quarantäne ausnahme,1,1,19,1
+Impftermin via Internet habe einen Terminbuchungscode was muss ich anklicken2,1,1,77,1
+Wo kann ich mein Auto zulassen ,0,1,31,0
+Wo kann man den Namen im Führerschein ändern lassen nach einer Eheschließung ,0,1,77,0
+ich möchte ein Termin haben von Einbürgerung,0,1,44,0
+Führerscheinumtausch,0,0,20,1
+Ich brauche einen Perso,0,1,23,0
+termin zu fahrerkarten verlängerung,1,0,35,0
+Personalausweis beantragen,0,0,26,1
+Abholdatum Personalausweiß,0,0,26,1
+abmelden einer wohnung,0,0,22,1
+Ich brauche ein erweitertes behördliches Führungszeugnis in spätestens 5 Wochen,0,1,79,0
+Darf man nach Sachsen reisen ,1,1,29,1
+Ich würde gern eine anzeigen machen wollen,0,1,42,0
+Kann ich als Angehöriger einen Corona Impftermin über Doctolib vereionbaren ,1,1,76,1
+Wohnung anmelden,1,0,16,0
+Eheschließung ohne Auslandsbeteiligung Auskunft Beratung und Anmeldung,0,0,70,1
+ich brauche einen freien termin beim bürgeramt berlin ich muss einen reisepasses beantragen,0,1,91,0
+Was muss ich zur Anmeldung einer Wohnung mitbringen,0,1,51,0
+wo bekomme ich einen corona test her ohne symtome,1,1,49,1
+Ich muss eine Wohnung anmelden,0,1,30,0
+Gibt es eine Warteliste für Termine zur Anmeldung einer Wohnung ,0,1,64,0
+Personalausweis,1,0,15,0
+kinderreisepaß läuft ab ,0,1,24,0
+Darf mein Kind auf den Spielplatz ,1,1,34,1
+Haben Flohmärkte derzeit geöffnet ,1,1,34,1
+Wann komme ich mit 63 Jahren an die Reihe ,1,1,42,1
+Gubt es eine 15 km Regel in Berlin,1,1,34,1
