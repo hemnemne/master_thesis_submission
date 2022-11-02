@@ -9,3 +9,7 @@ Find two notebooks:
 (1) The Binary Classifier
 
 (2) The Sentence Similarity Classifier
+
+representing both components of the model architecture. 
+
+Furthermore, find excerpts of the data in the corresponding folder.
